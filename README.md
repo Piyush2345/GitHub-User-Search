@@ -14,9 +14,11 @@ Search for a User:
 
 Enter the GitHub username in the search bar on the left.
 Click "Search" to view detailed user information.
+
 View User Details:
 
 The left side displays the profile details, such as followers, following, and public repositories.
+
 Search History:
 
 The right side shows a list of users you've searched for during the session.
@@ -27,6 +29,7 @@ Contributors
 GitHub User Search is an open-source project by the following contributors:
 
 -Piyush Chaudhari
+
 We welcome community contributions to enhance this application.
 
 Technologies Used
